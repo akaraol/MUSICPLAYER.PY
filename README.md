@@ -1,2 +1,3 @@
-# Projelerim
-Bireysel çalışmalarım ve projelerim / My personal projects and coding activities
+Music player
+
+A music player project 
